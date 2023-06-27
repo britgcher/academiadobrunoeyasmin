@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: brown;
+  color: #ffffff;
+}
+
+  
+  .navbar .container-fluid {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .navbar .container-fluid .navbar {
+    display: inline-block;
+  }
+
+  .container-button {
+    margin-top: 20px;
+  }
+
+  .tabela{
+    text-align: center;
+  }
+
+  
+  
+  
